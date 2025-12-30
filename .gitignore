@@ -1,0 +1,9 @@
+.env
+vector_store/
+data/doc/*
+!data/doc/.gitkeep
+__pycache__/
+*.pyc
+.dist/
+config.py
+utils.py
